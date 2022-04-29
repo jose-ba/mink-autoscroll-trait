@@ -1,6 +1,6 @@
 {
     "name": "jose-ba/mink-autoscroll-trait",
-    "description": "Trait para Selenium2Driver para que haga scroll automáticamente cuando un elemento está fuera del viewport.",
+    "description": "Trait para Selenium2Driver para que haga scroll autom\u00e1ticamente cuando un elemento est\u00e1 fuera del viewport.",
     "type": "library",
     "require-dev": {
         "behat/mink": "^1.10"
@@ -16,5 +16,8 @@
             "email": "jose1987ba@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "marcocesarato/php-conventional-changelog": "^1.13"
+    },
+    "version": ""
 }

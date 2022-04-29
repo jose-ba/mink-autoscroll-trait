@@ -1,0 +1,20 @@
+{
+    "name": "jose-ba/mink-autoscroll-trait",
+    "description": "Trait para Selenium2Driver para que haga scroll automáticamente cuando un elemento está fuera del viewport.",
+    "type": "library",
+    "require-dev": {
+        "behat/mink": "^1.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "JoseBa\\MinkAutoscrollTrait\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jose",
+            "email": "jose1987ba@gmail.com"
+        }
+    ],
+    "require": {}
+}

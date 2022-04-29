@@ -2,6 +2,8 @@
 
 declare(strict_types=1);
 
+namespace JoseBa\MinkAutoscrollTrait;
+
 use Behat\Mink\Session;
 
 /**

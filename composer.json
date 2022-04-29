@@ -19,5 +19,5 @@
     "require": {
         "marcocesarato/php-conventional-changelog": "^1.13"
     },
-    "version": ""
+    "version": "0.1.0"
 }
